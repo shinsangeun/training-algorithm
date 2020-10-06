@@ -4,29 +4,15 @@ function superReducedString(s) {
     array.push(...s);
     console.log(array);
 
-    let array2 = [];
-
     for(let i = 0; i<array.length; i++){
         if(array[i] === array[i+1]){
-            // array2 = array[i];
-            let test = [];
-            test.push(array[i], array[i+1]);
-
-            console.log("같네", array[i], test);
-
-            array.splice(array[i], array[i+1]);
-            console.log("array:", array);
-
-            // return;
-        }else{
-            array2.push(array[i]);
-            console.log("다르네:", array[i]);
+            array.splice(i, 2);
+            i = -1;
         }
-
     }
-    console.log("result:", array2);
+    //console.log(array.length === 0 ? "Empty String" : array.join(""))
 
-    return array2;
+    return array.length === 0 ? "Empty String" : array.join("");
 }
 
 superReducedString("aaabccddd");
