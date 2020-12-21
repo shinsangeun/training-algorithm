@@ -4,7 +4,7 @@ function superReducedString(s) {
     array.push(...s);
     console.log(array);
 
-    for(let i = 0; i<array.length; i++){
+    for(let i = 0; i < array.length; i++){
         if(array[i] === array[i+1]){
             array.splice(i, 2);
             i = -1;
