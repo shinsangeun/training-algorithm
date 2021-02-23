@@ -7,7 +7,8 @@
 |   프로그래머스  |     정렬     | [K번째 수](https://github.com/shinsangeun/training-algorithm/blob/master/programmers/sort/KNumber.js) |
 |   프로그래머스  |     해시     | [위장](https://github.com/shinsangeun/training-algorithm/blob/master/programmers/hash/Camouflage.js)         |
 |   프로그래머스  |     해시     | [완주하지 못한 선수](https://github.com/shinsangeun/training-algorithm/blob/master/programmers/hash/incompleteAthlete.js)|
-|   프로그래머스  |     해시     | [완주하지 못한 선수](https://github.com/shinsangeun/training-algorithm/blob/master/programmers/hash/incompleteAthlete.js)|
+|   프로그래머스  |   연습 문제   | [서울에서 김서방 찾기](https://github.com/shinsangeun/training-algorithm/blob/master/programmers/practice/searchKim.js)|
+|   프로그래머스  |   연습 문제   | [가운데 글자 가져오기](https://github.com/shinsangeun/training-algorithm/blob/master/programmers/practice/centerString.js)|
 |  Hacker Rank |  10daysOfJavascript  | [Factorial](https://github.com/shinsangeun/training-algorithm/blob/master/hackerRank/10daysOfJavascript/factorial.js)|
 |  Hacker Rank |  InterviewPreparationKit  | [Counting Valleys](https://github.com/shinsangeun/training-algorithm/blob/master/hackerRank/InterviewPreparationKit/warmUp/countingValleys.js) |
 |  Hacker Rank |  Strings  | [Camel Case](https://github.com/shinsangeun/training-algorithm/blob/master/hackerRank/algorithms/Strings/CamelCase.js)|
